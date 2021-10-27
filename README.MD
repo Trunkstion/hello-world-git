@@ -1,5 +1,6 @@
 # Version del curso
 Version actual: v1.2.2
+# [Curso de Git Udemy](https://www.udemy.com/course/aprende-a-dominar-git-de-cero-a-experto/)
 
 # Cabeceras
 # Cabecera H1
